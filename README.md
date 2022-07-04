@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- -🔭 I’m currently working on Machine Learning
-- -🌱 I’m currently learning how to make efficient ML models
-- -👯 I’m looking to collaborate on ML projects 
-- -🤔 I’m looking for help with web development
+- -🔭 I’m currently working on NLP
+- -🌱 I’m currently learning React
+- -👯 I’m looking to collaborate on hackathons
+- -🤔 I’m looking for help with Web3 and Back-end development
 - -💬 Ask me about ML, Mathematics
 - -📫 How to reach me: Linkedin
 - -😄 Pronouns: He/Him
-- ⚡ Fun fact: There are more things to be added here which I am not really confident about :sweat_smile: 
+- ⚡ Fun fact: You may have realised my code is the worst you have ever seen, but it works :sweat_smile: 
