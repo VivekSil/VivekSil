@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- -🔭 I’m currently working on NLP
-- -🌱 I’m currently learning React
+- -🔭 I’m currently working on LLMs
+- -🌱 I’m currently learning rust
 - -👯 I’m looking to collaborate on hackathons
-- -🤔 I’m looking for help with Web3 and Back-end development
+- -🤔 I’m looking for help with frontend development
 - -💬 Ask me about ML, Mathematics
 - -📫 How to reach me: Linkedin
 - -😄 Pronouns: He/Him
