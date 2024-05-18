@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-<b>I am a Software Engineer and ML Researcher who is working on LLM Pretraining and Fine-tuning
+I am a Software Engineer and ML Researcher who is working on LLM Pretraining and Fine-tuning
 
-I am open to collaboration for AI/LLM research and hackathons<b>
+I am open to collaboration for AI/LLM research and hackathons
 
 ### Languages
 
