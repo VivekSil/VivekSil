@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 - -🔭 I’m currently working on LLMs
-- -🌱 I’m currently learning rust
+- -🌱 I’m currently learning go
 - -👯 I’m looking to collaborate on hackathons
-- -🤔 I’m looking for help with frontend development
+- -🤔 I’m looking for collaboration in ML research
 - -💬 Ask me about ML, Mathematics
 - -📫 How to reach me: Linkedin
 - -😄 Pronouns: He/Him
-- ⚡ Fun fact: You may have realised my code is the worst you have ever seen, but it works :sweat_smile: 
+- ⚡ Fun fact: Looking at the code, you'll realise it ain't much but it's honest work :sweat_smile: 
