@@ -5,11 +5,26 @@
 
 Here are some ideas to get you started:
 -->
-- -🔭 I’m currently working on LLMs
-- -🌱 I’m currently learning go
-- -👯 I’m looking to collaborate on hackathons
-- -🤔 I’m looking for collaboration in ML research
-- -💬 Ask me about ML, Mathematics
-- -📫 How to reach me: Linkedin
-- -😄 Pronouns: He/Him
-- ⚡ Fun fact: Looking at the code, you'll realise it ain't much but it's honest work :sweat_smile: 
+
+
+<b>I am a Software Engineer and ML Researcher who is working on LLM Pretraining and Fine-tuning
+
+I am open to collaboration for AI/LLM research and hackathons<b>
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
