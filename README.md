@@ -28,5 +28,4 @@ I am actively using libraries like [DSPy](https://github.com/stanfordnlp/dspy), 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
