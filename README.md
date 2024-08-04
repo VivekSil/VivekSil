@@ -11,7 +11,7 @@ I am a Software Engineer and ML Researcher who is working on LLM Pretraining and
 
 I am open to collaboration for AI/LLM research and hackathons
 
-I am actively using libraries like [DSPy](https://github.com/stanfordnlp/dspy), [trl](https://github.com/huggingface/trl)
+I am actively using libraries like [DSPy](https://github.com/stanfordnlp/dspy), [trl](https://github.com/huggingface/trl) and [spacy_llm](https://github.com/explosion/spacy-llm)
 
 ### Languages
 
