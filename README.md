@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a Software Engineer and ML Researcher who is working on LLM Pretraining and Fine-tuning
+I am a Senior Software Engineer and ML Researcher who is working on LLM Pretraining and Fine-tuning
 
 I am open to collaboration for AI/LLM research and hackathons
 
