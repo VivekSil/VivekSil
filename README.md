@@ -7,11 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-I am a Senior Software Engineer and ML Researcher who is working on LLM Pretraining and Fine-tuning
+I am a Senior Software Engineer (ML) @Persistent Systems. I build applications using LLMs and I am currently working on LLM finetuning and Late-interaction/Vision retrievers
+I also develop LLMs for Sanskrit Language and I am currently learning federated learning and other PETs as a part of #30DaysofFLCode challenge by OpenMined
 
-I am open to collaboration for AI/LLM research and hackathons
-
-I am actively using libraries like [DSPy](https://github.com/stanfordnlp/dspy), [trl](https://github.com/huggingface/trl) and [spacy_llm](https://github.com/explosion/spacy-llm)
 
 ### Languages
 
