@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-I am a Senior Software Engineer (ML) @Persistent Systems. 
-I build applications using LLMs and I am currently working on LLM finetuning and Late-interaction/Vision retrievers
-I also develop LLMs for Sanskrit Language and I am currently learning federated learning and other PETs as a part of #30DaysofFLCode challenge by OpenMined
-
+- I am a Senior Software Engineer (ML) @Persistent Systems. 
+- I build applications using LLMs and I am currently working on LLM finetuning and Late-interaction/Vision retrievers
+- My research interests are retriever models and vision LLMs
 
 ### Languages
 
