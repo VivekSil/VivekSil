@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 
 - I am a Senior Software Engineer (ML) @Persistent Systems. 
-- I build applications using LLMs and I am currently working on LLM finetuning and Late-interaction/Vision retrievers
-- My research interests are retriever models and vision LLMs
+- I build applications using LLMs and I am currently working with LLM finetuning and Late-interaction/Vision retrievers
+- I am learning Federated Learning and other privacy preserving techniques as a part of 30 Days of FL Code by [OpenMined](https://info.openmined.org/30daysofflcode)
 
 ### Languages
 
