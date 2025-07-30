@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-- I am a Senior Software Engineer (ML) @Persistent Systems. 
+- I am a Senior Software Engineer (ML) @Persistent Systems and @Cohere Labs Community Lead
 - I build applications using LLMs and I am currently working with LLM finetuning and Late-interaction/Vision retrievers
-- I am learning Federated Learning and other privacy preserving techniques as a part of 30 Days of FL Code by [OpenMined](https://info.openmined.org/30daysofflcode)
+- In my free time I work on research project search and human computer interaction
 
 ### Languages
 
