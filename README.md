@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 
 - I am a Senior Software Engineer (ML) @Persistent Systems and @Cohere Labs Community Lead
-- I build applications using LLMs and I am currently working with LLM finetuning and Late-interaction/Vision retrievers
-- In my free time I work on research project search and human computer interaction
+- I pecializing in fine-tuning Large Language Models (LLMs), build autonomous agents, and enhance document processing workflows.
 
 ### Languages
 
@@ -26,4 +25,3 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
