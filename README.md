@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 - I am a Senior Software Engineer (ML) @Persistent Systems and @Cohere Labs Community Lead
-- I pecializing in fine-tuning Large Language Models (LLMs), build autonomous agents, and enhance document processing workflows.
+- I specializing in fine-tuning Large Language Models (LLMs), build autonomous agents, and enhance document processing workflows.
 
 ### Languages
 
