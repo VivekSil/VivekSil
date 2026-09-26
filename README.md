@@ -1,27 +1,26 @@
-### Hi there 👋 This is Vivek !!
+<div align="center">
+  <img src="https://github.com/VivekSil/viveksil.github.io/blob/main/me.png" width="100%" alt="banner"/>
+</div>
 
-<!--
-**VivekSil/VivekSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Vivek Silimkhan</h1>
+<p align="center"><b>Lead SDE (ML)</b> — Persistent Systems</p>
 
-Here are some ideas to get you started:
--->
+<p align="center">
+  <!-- <a href="mailto:person12345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a> -->
+  <a href="https://viveksil.github.io"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/vivek-silimkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
+---
 
-- I am a Lead Software Engineer (ML) @Persistent Systems and @Cohere Labs Community Lead
-- I specializing in fine-tuning Large Language Models (LLMs), build autonomous agents, and enhance document processing workflows.
+### What I do
+I build systems that read documents the way a specialist would — fine-tuning LLMs and VLMs, designing multi-modal retrieval pipelines, and extracting structured knowledge graphs from messy medical, legal, and financial data. Most of my work lives at the intersection of small-data training and large-scale document understanding, turning unstructured records into something a machine can actually query.
+### Stack
+`Python` `C++` `SQL` `openCypher`
+`PyTorch` `Transformers` `spaCy` `LangGraph` `vLLM`
+`Qdrant` `FAISS` `Neo4j`
+`Docker` `Vertex AI` `SageMaker` `Bedrock`
 
-### Languages
+---
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+<p align="center"><i>Building pipelines that turn unstructured chaos into structured knowledge.</i></p>
